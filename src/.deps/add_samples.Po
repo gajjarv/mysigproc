@@ -1,0 +1,5 @@
+add_samples.o: add_samples.c /usr/include/stdc-predef.h ../config.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:

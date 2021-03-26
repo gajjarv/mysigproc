@@ -1,0 +1,7 @@
+nrsort.o: nrsort.c /usr/include/stdc-predef.h ../config.h nrutil.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:
+
+nrutil.h:

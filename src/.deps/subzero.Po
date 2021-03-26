@@ -1,0 +1,7 @@
+subzero.o: subzero.c /usr/include/stdc-predef.h ../config.h header.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:
+
+header.h:

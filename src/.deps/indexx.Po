@@ -1,0 +1,7 @@
+indexx.o: indexx.c /usr/include/stdc-predef.h ../config.h nrutil.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:
+
+nrutil.h:
